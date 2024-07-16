@@ -5,7 +5,5 @@
 
 
 ### Others
-
-
-### Generic Guides
+- [Generic Guides](https://github.com/Cheena-gb/generic-guides)
 
