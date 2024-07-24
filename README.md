@@ -6,4 +6,4 @@
 
 ### Others
 - [Generic Guides](https://github.com/Cheena-gb/generic-guides)
-
+- (wip/private)[Oshinagaki](https://github.com/Cheena-gb/oshinagaki)
