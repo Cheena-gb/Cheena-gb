@@ -6,7 +6,7 @@
 - (wip)RE Aoharu
 
 ### Accessories
-- (wip)RP2040-Zero Comverter
+- (wip)RP2040-Zero Converter
 - [Swich Tester Keyholder](https://github.com/Cheena-gb/Switch-Tester-Keyholder/tree/main)
 
 ### Others
