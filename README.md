@@ -1,5 +1,4 @@
-"Japanese Keyboard Atelier"
-日本語キーボード開発室
+「電子的文具工房」
 
 ### Keyboards
 - [Childhood's End](https://github.com/Cheena-gb/Childhood-s-End)
