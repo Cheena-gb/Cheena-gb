@@ -14,3 +14,5 @@
 
 ### Others
 - [Generic Guides](https://github.com/Cheena-gb/generic-guides)
+- [Lube Oil](https://github.com/Cheena-gb/lube)
+- [TyPlates](https://github.com/Cheena-gb/typlate)
