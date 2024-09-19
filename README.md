@@ -11,7 +11,7 @@
 ### Accessories
 - [RP2040-Zero Converter](https://github.com/Cheena-gb/RP2040-Zero-Converter)
 - [Swich Tester Keyholder](https://github.com/Cheena-gb/Switch-Tester-Keyholder)
-- (wip)[TyPlates](https://github.com/Cheena-gb/typlate)
+- (wip)[TyPlates](https://github.com/Cheena-gb/typlates)
 - (wip)[キーキャップを裾上げするキット](https://github.com/Cheena-gb/miniskirt-kit)
   
 ### Others
