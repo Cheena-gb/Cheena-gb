@@ -7,12 +7,15 @@
 - [Childhood's End](https://github.com/Cheena-gb/Childhood-s-End)
 - [Summer Zephyr](https://github.com/Cheena-gb/Summer-Zephyr)
 - (wip)RE Aoharu
+- (wip)\<harmony/>
+- (wip)hh40jp
 
 ### Accessories
 - [RP2040-Zero Converter](https://github.com/Cheena-gb/RP2040-Zero-Converter)
 - [Swich Tester Keyholder](https://github.com/Cheena-gb/Switch-Tester-Keyholder)
 - (wip)[TyPlates](https://github.com/Cheena-gb/typlates)
 - (wip)[キーキャップを裾上げするキット](https://github.com/Cheena-gb/miniskirt-kit)
+- (wip)Keycap Ruler
   
 ### Others
 - [Generic Guides](https://github.com/Cheena-gb/generic-guides)
