@@ -8,7 +8,7 @@
 - [Summer Zephyr](https://github.com/Cheena-gb/Summer-Zephyr)
 - (wip)RE Aoharu
 - (wip)\<harmony/>
-- (wip)hh40jp
+- (wip)h56jp
 
 ### Accessories
 - [RP2040-Zero Converter](https://github.com/Cheena-gb/RP2040-Zero-Converter)
