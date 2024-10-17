@@ -13,6 +13,7 @@
 ### Accessories
 - [RP2040-Zero Converter](https://github.com/Cheena-gb/RP2040-Zero-Converter)
 - [Swich Tester Keyholder](https://github.com/Cheena-gb/Switch-Tester-Keyholder)
+- [MX Choc Converter](https://github.com/Cheena-gb/MX-Choc-Converter)
 - (wip)[TyPlates](https://github.com/Cheena-gb/typlates)
 - (wip)[キーキャップを裾上げするキット](https://github.com/Cheena-gb/miniskirt-kit)
 - (wip)Keycap Ruler
