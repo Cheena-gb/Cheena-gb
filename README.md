@@ -6,7 +6,7 @@
 ### Keyboards
 - [Childhood's End](https://github.com/Cheena-gb/Childhood-s-End)
 - [Summer Zephyr](https://github.com/Cheena-gb/Summer-Zephyr)
-- (wip)[\<harmony/>](https://github.com/Cheena-gb/harmony)
+- [\<harmony/>](https://github.com/Cheena-gb/harmony)
 - (wip)RE Aoharu
 - (wip)h56jp
 
