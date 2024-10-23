@@ -7,7 +7,7 @@
 - [Childhood's End](https://github.com/Cheena-gb/Childhood-s-End)
 - (wip)[Summer Zephyr](https://github.com/Cheena-gb/Summer-Zephyr)
 - [\<harmony/>](https://github.com/Cheena-gb/harmony)
-- (wip)RE Aoharu
+- (wip)[RE Aoharu](https://github.com/Cheena-gb/RE-Aoharu)
 - (wip)h56jp
 
 ### Accessories
