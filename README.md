@@ -7,7 +7,7 @@
 - [Childhood's End](https://github.com/Cheena-gb/Childhood-s-End)
 - (wip)[Summer Zephyr](https://github.com/Cheena-gb/Summer-Zephyr)
 - [\<harmony/>](https://github.com/Cheena-gb/harmony)
-- [*Blue†Archive* Keyboards](https://github.com/Cheena-gb/Bluearchive_keyboards)
+- [*Blue†Archive* Keyboards](https://github.com/Cheena-gb/Bluearchive-Keyboards)
   - RE Aoharu
   - (wip)Hare's Hacking Keyboard "H2KB"
 - (wip)[90wünsche](https://github.com/Cheena-gb/90wunsche)
