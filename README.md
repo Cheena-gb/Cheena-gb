@@ -14,7 +14,7 @@
 - (wip)[Lycoris Radiata](https://github.com/Cheena-gb/Lycoris_Radiata)
 
 ### Macro Pads & Left Hand Device
-- [handy8](https://github.com/Cheena-gb/handy8)
+- [Handy8](https://github.com/Cheena-gb/handy8)
 
 ### Accessories
 - [RP2040-Zero Converter](https://github.com/Cheena-gb/RP2040-Zero-Converter)
