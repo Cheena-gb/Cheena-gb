@@ -8,7 +8,8 @@
 - [\<harmony/>](https://github.com/Cheena-gb/harmony)
 - [*Blue†Archive* Keyboards](https://github.com/Cheena-gb/Bluearchive-Keyboards)
   - RE Aoharu
-  - (wip)Hare's Hacking Keyboard "H2KB"
+  - (wip)快晴
+  - (wip)Constant Moderato
 - [IMPULSE](https://github.com/Cheena-gb/impulse)
   - IMPULSE77
 - (wip)[90wünsche](https://github.com/Cheena-gb/90wunsche)
