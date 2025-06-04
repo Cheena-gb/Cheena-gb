@@ -24,6 +24,7 @@
 - [MX Choc Converter](https://github.com/Cheena-gb/MX-Choc-Converter)
 - (wip)[TyPlates](https://github.com/Cheena-gb/typlates)
 - (wip)[キーキャップを裾上げするキット](https://github.com/Cheena-gb/miniskirt-kit)
+- (wip)[スイッチおすすめテスター](https://github.com/Cheena-gb/osusume_switch)
   
 ### Others
 - [Generic Guides](https://github.com/Cheena-gb/generic-guides)
